@@ -1,46 +1,32 @@
-// let title = ' welcome to our gay,';
-
-// function apartment ()
-// {
-// let kichen = 0 ;
-// let pedrome = 1;
-//  function room ()
-// {
-// let light = 0;
-// ++ light ;
-// kichen ++;
-// pedrome ++
-
-// console.log(light ,  kichen , pedrome);
-
-// }
-// return room;
-// }
 
 
-// {
-//  let a = '10.7';
 
-//  const b = true;
+const inf = {
+name: 'abdullah',
+id:1,
+phone: 776295518,
+country: {
+cety: 'aden',
+address: 'anma'
+},
+
+towname: ['ahmed','nasser'],
+
+sum: function()
+{
+let a=7;
+let b=5;
+console.log(a+b);
 
 
- 
-
-// //console.log(parseFloat(a)/ parseFloat(b));
-
-
-// //console.log(a);
-// //console.log(b);
-// }
+},
+}
 
 
-const langs = ['arpic' , 'frince' , 'english'
+console.log('my name is ' + inf.name);
 
 
-];
-
-console.log(langs);
-
+console.log(`my name is${inf.name}  my phone numper is${inf.phone}`)
 
 
 
