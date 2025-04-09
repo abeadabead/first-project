@@ -41,8 +41,7 @@ const langs = ['arpic' , 'frince' , 'english'
 
 console.log(langs);
 
-langs.push('name');
-langs.pop();
+
 
 
 
