@@ -22,11 +22,20 @@ console.log(a+b);
 },
 }
 
+// console.log('my name is ' + inf.name);
 
-console.log('my name is ' + inf.name);
+
+// console.log(`my name is${inf.name}  my phone numper is${inf.phone}`)
+console.log(document.querySelector("#job"));
+console.log(document.querySelectorAll(".title"));
 
 
-console.log(`my name is${inf.name}  my phone numper is${inf.phone}`)
+
+ 
+
+
+
+
 
 
 
